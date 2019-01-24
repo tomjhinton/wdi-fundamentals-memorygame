@@ -16,7 +16,7 @@ console.log("User flipped " + cards[cardId]);
 
 cardsInPlay.push(cards[cardId]) ;}
 
-flipCard(2);
+flipCard(0);
 flipCard(1);
 
 checkForMatch();

@@ -75,6 +75,13 @@ footer {
 	
 }
 
+#score {
+	font-family: 'Droid Serif';
+	line-height: 26px;
+	font-size: 18px;
+
+}
+
 .copyright {
 	float: left;
 }

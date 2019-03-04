@@ -14,7 +14,7 @@ var cards = [
 	index: 1,
 },
 {
-	rank: "Ace",
+	rank: "ace",
 	suit: "hearts",
 	cardImage: "images/Ace-of-hearts.png",
 	index: 2,
@@ -42,14 +42,14 @@ var cards = [
 
 },
 {
-	rank: "Ace",
+	rank: "ace",
 	suit: "diamonds",
 	cardImage: "images/ace-of-diamonds.png",
 	index: 6,
 
 },
 {
-	rank: "King",
+	rank: "king",
 	suit: "diamonds",
 	cardImage: "images/king-of-diamonds.png",
 	index: 7,

@@ -14,7 +14,7 @@ var cards = [
 	index: 1,
 },
 {
-	rank: "ace",
+	rank: "Ace",
 	suit: "hearts",
 	cardImage: "images/Ace-of-hearts.png",
 	index: 2,
@@ -60,7 +60,7 @@ var cards = [
 	rank: "Match",
 	suit: "Match",
 	cardImage: "images/back-match.png",
-	index: 7,
+	index: 8,
 }
 ];
 
